@@ -226,13 +226,6 @@ body {
    Modify as content requires.
    ========================================================================== */
 
-@media (min-width: 768px) {
-    width:100%;
-    max-width: 768px;
-    
-
-}
-
 @media only screen and (min-width: 35em) {
     /* Style adjustments for viewports that meet the condition */
 }
